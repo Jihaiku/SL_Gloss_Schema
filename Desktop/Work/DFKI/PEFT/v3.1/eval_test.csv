@@ -1,0 +1,7 @@
+Seed,WER,Norm_WER,Training_Size,Test_Size,r,lora_alpha,lora_dropout,bias,model_name_or_path,model,language,language_abbr,task
+164,49.28,71.41,474,8,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
+164,46.38,67.21,474,8,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
+171,36.71,46.47,474,8,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
+155,30.67,4.3,4743,81,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
+155,30.11,4.22,4743,81,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
+155,30.11,4.22,4743,81,32,64,0.05,none,openai/whisper-tiny,whisper-tiny,English,en,transcribe
